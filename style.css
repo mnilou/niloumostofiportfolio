@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+#nav-bar {
+    background-color: rgb(27, 24, 70); 
+    height: 60px;
+    color: cornsilk;
+    padding: 20px;
+
+}
+#name {
+   text-align: center;
+   
+}
+#profile-pic {
+    margin-top: 0;
+    border-radius: 50%;
+    
+}
