@@ -1,19 +1,28 @@
 body {
     font-family: Arial, Helvetica, sans-serif
 }
-#nav-bar {
-    background-color: rgb(27, 24, 70); 
-    height: 60px;
-    color: cornsilk;
-    padding: 20px;
+#top-section {
+    background-color: rgb(153, 153, 153); 
+    height: 10px;
+    color: rgb(169, 112, 66);
+    margin: 30px;
+    padding: 70px;
 
 }
 #name {
-   text-align: center;
-   
+   text-align: top;
+   font-size: 100px;
+   font-weight: bold;
 }
 #profile-pic {
-    margin-top: 0;
-    border-radius: 50%;
-    
+    margin-top: 0px;
+    border-radius: 50%;     
+}
+#middle-section {
+    background-color: rgb(25, 29, 72); 
+    height: 60px;
+    color: rgb(169, 112, 66);
+    margin: 30px;
+    padding: 70px;
+
 }
