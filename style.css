@@ -3,26 +3,41 @@ body {
 }
 #top-section {
     background-color: rgb(153, 153, 153); 
-    height: 10px;
-    color: rgb(169, 112, 66);
+    height: 140px;
+    text-align: center;
     margin: 30px;
-    padding: 70px;
-
+    border-radius: 20%;
+    color: rgb(169, 112, 66);
 }
 #name {
-   text-align: top;
-   font-size: 100px;
-   font-weight: bold;
-}
-#profile-pic {
-    margin-top: 0px;
-    border-radius: 50%;     
-}
-#middle-section {
-    background-color: rgb(25, 29, 72); 
-    height: 60px;
+    text-align: center;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-weight: bold;
     color: rgb(169, 112, 66);
+ }
+ #profile-pic {
+    margin-right: 1300px;
+    margin-top: -80px;
+    border-radius: 50%;
+    
+}
+ #middle-section {
+    background-color: rgb(25, 29, 72); 
+    height: 600px;
     margin: 30px;
-    padding: 70px;
+    margin-top: -110px;
+    border-radius: 20%;
+    text-align: center;
+    color: cornsilk;
 
+}
+#projects-section {
+    background-color: rgb(25, 29, 72); 
+    height: 600px;
+    margin: 30px;
+    margin-top: -110px;
+    border-radius: 20%;
+    text-align: center;
+    color: cornsilk;   
 }
